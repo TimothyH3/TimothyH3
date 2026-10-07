@@ -1,6 +1,6 @@
 ### Hi, I'm Timothy 👋
 
-Software Engineering senior at Arizona State University (graduating Dec 2026).
+Software Engineering senior at Arizona State University graduating April 2027.
 
 - **Currently Building:** *Come Together Compass*, a privacy-first community aid platform for Community Pay It Forward (Vue 3, TypeScript, Node.js, PostgreSQL).
 - **Tech Stack:** Java, TypeScript, JavaScript, Python, SQL, Vue 3, Node.js, JUnit, Git.
